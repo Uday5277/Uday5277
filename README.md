@@ -1,4 +1,4 @@
-# 💫 About Me
+# Introduction
 
 Hi 👋 I'm Uday, a Computer Science undergraduate who enjoys building **end-to-end full-stack applications**. I like working on systems where **frontend, backend, databases, and infrastructure** come together to solve real-world problems.
 
@@ -6,7 +6,7 @@ I have hands-on experience with **React, Node.js, PostgreSQL, Redis, and Docker*
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -33,7 +33,7 @@ I have hands-on experience with **React, Node.js, PostgreSQL, Redis, and Docker*
 
 ---
 
-## 🌐 Socials
+## Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-p-5942b429b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/udayp5277/)
@@ -41,7 +41,7 @@ I have hands-on experience with **React, Node.js, PostgreSQL, Redis, and Docker*
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Uday5277&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
